@@ -6,3 +6,6 @@
 2. clone repository
 3. run ```make qemu``` in src
 4. runing readcounttest in the emulator will show working calls, as it will print the read count before and after using read
+
+# AI Declaration
+ChatGPT o4-mini-high and 4.1 were used for ideation and debuging
